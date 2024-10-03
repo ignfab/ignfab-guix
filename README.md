@@ -6,8 +6,8 @@ Use this repo as a [channel](https://guix.gnu.org/manual/en/html_node/Channels.h
 
 ``` scheme
 (append (list (channel
-                (name 'mbunel-guix-packages)
-                (url "https://github.com/MBunel/my-guix.git")
+                (name 'ignfab-guix-packages)
+                (url "https://github.com/ignfab/ignfab-guix.git")
 		(branch "main")))
         %default-channels)
 ```
