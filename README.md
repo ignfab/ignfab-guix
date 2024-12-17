@@ -24,6 +24,7 @@ Use this repo as a [channel](https://guix.gnu.org/manual/en/html_node/Channels.h
   - [tyler](https://github.com/3DGI/tyler) v0.3.10
   - [untwine](https://github.com/hobuinc/untwine) v1.10
   - [lg](https://github.com/MBunel/lg) v0.2.1
+  - [val3dity](https://github.com/tudelft3d/val3dity) v2.5.1
 - Libs:
   - [laslib](https://github.com/LAStools/LAStools) v2.0.2
   - [laszip](https://github.com/LASzip/LASzip) v3.4.4
